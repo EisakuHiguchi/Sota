@@ -1,0 +1,10 @@
+C:\Users\Iris\Desktop\Slide001\Slide001\bin\Debug\Slide001.exe.config
+C:\Users\Iris\Desktop\Slide001\Slide001\bin\Debug\Slide001.exe
+C:\Users\Iris\Desktop\Slide001\Slide001\bin\Debug\Slide001.pdb
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.csprojResolveAssemblyReference.cache
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.Form1.resources
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.Properties.Resources.resources
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.csproj.GenerateResource.Cache
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.exe
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.pdb
+C:\Users\Iris\Desktop\Slide001\Slide001\obj\Debug\Slide001.initForm.resources
